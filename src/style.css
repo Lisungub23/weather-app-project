@@ -1,0 +1,14 @@
+body { background: lightcyan;
+       font-family: "Montserrat", sans-serif;
+  
+}
+
+
+.container {
+    background: lightgoldenrodyellow;
+    max-width: 600px;
+    margin: 45px auto;
+    padding: 30px;
+    box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+    border-radius: 10px;
+}
